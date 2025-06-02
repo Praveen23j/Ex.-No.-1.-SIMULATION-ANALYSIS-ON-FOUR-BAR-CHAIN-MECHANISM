@@ -47,8 +47,8 @@
 ![Screenshot (77)](https://github.com/user-attachments/assets/d4508527-791c-4541-bc03-84b2a7a3e13f)
 
 
-### Name: Devika D
-### Register Number: 212224100010
+### Name: Praveen j
+### Register Number: 212224230205
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
